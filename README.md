@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Erdonus. I’m interested in cybersecurity and cryptography. I’m a high-school student and self-taught hobbyist programmer who enjoys working on small projects and learning new languages and technologies.
+Hi, I’m Erdon. I’m interested in cybersecurity and cryptography. I’m a high-school student and self-taught hobbyist programmer who enjoys working on small projects and learning new languages and technologies.
 
 ### 🧠 Languages & Skill Levels
 - **C#:** Beginner  
